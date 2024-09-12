@@ -1,0 +1,15 @@
+
+.container{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bub1{
+    height: 15vmin;
+    width: 15vmin;
+    border-radius: 50vh;
+    background-color: aliceblue;
+    position: absolute;
+}
